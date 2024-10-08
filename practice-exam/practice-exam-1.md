@@ -7,7 +7,7 @@ If this practice exam has been helpful to you please share it with others and re
 ---
 
 1. AWS allows users to manage their resources using a web based user interface. What is the name of this interface?
-    - [ ] A. AWS CLI.
+    - [x] A. AWS CLI.
     - [ ] B. AWS API.
     - [ ] C. AWS SDK.
     - [ ] D. AWS Management Console.
